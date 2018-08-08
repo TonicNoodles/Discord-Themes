@@ -1,0 +1,10 @@
+//META{"name":"BlueNightSkyBear","description":"First theme that I worked on. You'll have to let me know if you find anything that is not properly done! ","author":"TonicNoodles","version":"1.6"}*//
+
+/* IMPORT CSSD DONT TOUCH */
+	@import url(https://rawgit.com/TonicNoodles/Discord-Themes/master/BlueBearTheme.theme.css);
+
+	
+/* ADD A CUSTOM BACKGROUND HERE */
+.app, canvas, .callout-backdrop {
+	background-image: url("https://cdn.discordapp.com/attachments/464721298866831372/469742557153460224/E5taMig.png") !important;
+}
