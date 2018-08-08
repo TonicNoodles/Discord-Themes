@@ -225,11 +225,10 @@ MESSAGE BOX
 /*
 SCROLL BARS
 */
-#app-mount ::-webkit-scrollbar{	max-width: 10px;}
-#app-mount ::-webkit-scrollbar-track-piece{	background: transparent	border: none;border-radius: 5px;}
-#app-mount :hover::-webkit-scrollbar-track-piece{background: rgba(30,30,30,.2);	border-radius: 5px;}
-#app-mount ::-webkit-scrollbar-thumb {background-color:rgb(20, 20, 20) !important;	border: 2px solid #1e1e1e !important;	border-radius:0px;}
-#app-mount ::-webkit-scrollbar-button {	display: none;}
+#app-mount::-webkit-scrollbar{	max-width: 10px;}
+#app-mount::-webkit-scrollbar-track-piece{	background: transparent	border: none;border-radius: 5px;}
+#app-mount::-webkit-scrollbar-thumb {background-color:rgb(20, 20, 20) !important;	border: 2px solid #1e1e1e !important;	border-radius:0px;}
+#app-mount::-webkit-scrollbar-button {	display: none;}
 /* 
 CLICKABLE PROFILE
 */
