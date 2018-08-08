@@ -1,3 +1,4 @@
+//META{"name":"TestingBlueBear","description":"First theme that I worked on. You'll have to let me know if you find anything that is not properly done! ","author":"TonicNoodles","version":"1.6"}*//
 
 @import url('https://fontlibrary.org/face/gauge');
 
@@ -739,37 +740,10 @@ SCROLL BARS
 
 */
 
-#app-mount ::-webkit-scrollbar
-{
-	max-width: 10px;
-}
-
-#app-mount ::-webkit-scrollbar-track-piece
-{
-	background: transparent;
-	border: none;
-	border-radius: 5px;
-}
-
-
-#app-mount :hover::-webkit-scrollbar-track-piece
-{
-	background: rgba(30,30,30,.2);
-	border-radius: 5px;
-}
-
-#app-mount ::-webkit-scrollbar-thumb
-{
-	background-color:rgb(20, 20, 20) !important;
-	border: 2px solid #1e1e1e !important;
-	border-radius:0px;
-}
-
-#app-mount ::-webkit-scrollbar-button 
-{
-	display: none;
-}
-
+::-webkit-scrollbar{ max-width: 10px;}
+::-webkit-scrollbar-track-piece{	background: transparent	border: none; border-radius: 5px; }
+::-webkit-scrollbar-thumb { background-color:rgb(20, 20, 20) !important; border: 2px solid #1e1e1e !important; border-radius:0px; }
+::-webkit-scrollbar-button { display: none; }
 /* 
 
 CLICKABLE PROFILE
