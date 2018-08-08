@@ -224,12 +224,12 @@ Server Settings
 
 .theme-dark .select-2TCrqx .Select-option.is-selected
 {
-	background-color:rgba(20,20,20, .6);
+	background-color:rgba(20,20,20, .7);
 }
 
 .Select .Select-menu
 {
-	background-color:rgba(20,20,20, .6);
+	background-color:rgba(20,20,20, .3);
 }
 
 .theme-dark .card-FDVird:before
@@ -237,6 +237,20 @@ Server Settings
 	background-color:rgba(30,30,30, .6);
 }
 
+.theme-dark .select-2TCrqx .is-focused .Select-control
+{
+	background-color:tranparent;
+}
+
+.theme-dark .select-2TCrqx .Select-menu-outer
+{
+	background:transparent;
+}
+
+.theme-dark .select-2TCrqx .Select-option.is-focused, .theme-dark .select-2TCrqx .Select-option:hover
+{
+	background-color:rgba(30,30,30, .6);
+}
 
 /* 
 
@@ -380,12 +394,6 @@ SELECT STATUS
 .theme-dark .item-1GzJrl
 {
     color: rgb(167, 252, 82);
-}
-
-/* Background Status*/
-.popout-3sVMXz, .popouts-3dRSmE
-{
-    color:rgb(20, 20, 20);   
 }
 
 
