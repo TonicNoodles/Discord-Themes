@@ -6,7 +6,7 @@
 1) Download BlueNightSkyBear.theme.css
 2) Move it into your BD themes folder
 
-# PREVIEWS OF BlueNightSkyBear
+# Previews of BlueNightSkyBear
 
 https://imgur.com/Ugc4WCM
 
