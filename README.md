@@ -8,4 +8,8 @@
 
 # Previews of BlueNightSkyBear
 
-https://imgur.com/a/0bFEq0n
+<img src="https://imgur.com/xfp8w5y">
+
+<img src="https://imgur.com/RhuBd9P">
+
+<img src="https://imgur.com/boqaS8l">
