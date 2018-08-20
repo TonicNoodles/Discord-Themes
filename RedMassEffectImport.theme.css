@@ -1,0 +1,8 @@
+//META{"name":"RedMassEffect","description":" Mass Effect Fire ","author":"TonicNoodles","version":"1.0"}*// 
+
+@import url(https://rawgit.com/TonicNoodles/Discord-Themes/master/RedMassEffectCode.theme.css);
+	
+/* ADD A CUSTOM BACKGROUND HERE */
+.app, canvas, .callout-backdrop {
+	background-image: url("https://cdn.discordapp.com/attachments/472304407732682762/477013941101527050/fire_mass_effect_andromeda_4k-1920x1080.jpg") !important;
+}
