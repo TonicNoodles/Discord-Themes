@@ -20,3 +20,7 @@ The background was custom photoshopped by me.
 <img src="https://i.imgur.com/O9nP5YQ.jpg">
 
 <img src="https://i.imgur.com/eWebgC6.jpg">
+
+# HOW TO INSTALL
+1) Download RedMassEffectImport.theme.css
+2) Move it into your BD themes folder
