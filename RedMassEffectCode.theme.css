@@ -49,6 +49,7 @@
 
 /* DM Page */
 .channel-2QD9_O.selected-1HYmZZ, .channel-2QD9_O:hover {background-color: rbga(255,31,31,.3); }
+.channel-2QD9_O.selected-1HYmZZ a, .channel-2QD9_O:hover a { background-color: rgba(255,31,31,.5);
 
 /* Chat Message Box */
 .theme-dark .inner-zqa7da { border: 1px solid #ff1f1f; }
