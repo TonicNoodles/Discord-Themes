@@ -172,6 +172,8 @@ POP UP
 .theme-dark .container-2x5lvQ header { background-color: rgb(20,20,20); color: rgb(167, 252, 82); }
 .theme-dark .container-2x5lvQ section { background-color: rgb(20,20,20); }
 .container-2x5lvQ { border: 1px solid #a7fc52; }
+.theme-dark .member-3W1lQa.popout-open .content-OzHfo4, .theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4 { background-color : rgba(167, 252, 82,.3); }
+.icon-3nr6O- path{ opacity:1; fill: #a7fc52 !important;}
 
 /* 
 
@@ -192,6 +194,12 @@ Unread Messages Alert
 { 
     color: rgba(167, 252, 82, 0.8); 
 }
+.unread-1xRYoj {background-color: rgba(0,0,0,.7); border: 1px solid #a7fc52; }
+.theme-dark .jumpToPresentBar-9P20AM { background-color: rgba(0,0,0,.7); border: 1px solid #a7fc52; }
+.theme-dark .jumpToPresentBar-9P20AM:hover { background-color: rgba(0,0,0,.7); border: 1px solid #a7fc52; }
+.newMessagesBar-mujexs:hover { background-color: rgba(0,0,0,.7); border: 1px solid #a7fc52; }
+.theme-dark .hasMore-3e72_v button { background-color: rgba(0,0,0,.7); border: 1px solid #a7fc52; }
+.hasMore-3e72_v button { color: #a7fc52; }
 
 /* 
 
@@ -708,36 +716,11 @@ SCROLL BARS
 
 */
 
-#app-mount ::-webkit-scrollbar
-{
-	max-width: 10px;
-}
+::-webkit-scrollbar-thumb { border-radius: 1px !important; border: .5px solid rgba(167, 252, 82, .5) !important; background: rgb(20, 20, 20) !important; } 
+::-webkit-scrollbar, ::-webkit-scrollbar-track-piece { width:8px !important; border-color: transparent !important; background: transparent !important;} 
+::-webkit-scrollbar-corner { display: none !important }
+::-webkit-scrollbar-track { background-color: rgba(0, 0, 0, 0)!important }
 
-#app-mount ::-webkit-scrollbar-track-piece
-{
-	background: transparent;
-	border: none;
-	border-radius: 5px;
-}
-
-
-#app-mount :hover::-webkit-scrollbar-track-piece
-{
-	background: rgba(30,30,30,.2);
-	border-radius: 5px;
-}
-
-#app-mount ::-webkit-scrollbar-thumb
-{
-	background-color:rgb(20, 20, 20) !important;
-	border: 2px solid #1e1e1e !important;
-	border-radius:0px;
-}
-
-#app-mount ::-webkit-scrollbar-button 
-{
-	display: none;
-}
 /* 
 
 CLICKABLE PROFILE
