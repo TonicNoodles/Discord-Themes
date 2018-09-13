@@ -173,7 +173,7 @@ POP UP
 .theme-dark .container-2x5lvQ section { background-color: rgb(20,20,20); }
 .container-2x5lvQ { border: 1px solid #a7fc52; }
 .theme-dark .member-3W1lQa.popout-open .content-OzHfo4, .theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4 { background-color : rgba(167, 252, 82,.3); }
-.icon-3nr6O- path{ opacity:1; fill: #a7fc52 !important;}
+.icon-3nr6O- path{ opacity: 1; fill: #a7fc52 !important;}
 
 /* 
 
@@ -705,8 +705,7 @@ MESSAGE BOX
 */
 
 /* Attach Button */
-
-.theme-dark .inner-zqa7da { border: 1px solid #a7fc52; }
+.theme-dark .inner-zqa7da { border: 1px solid #a7fc52  !important;}
 .theme-dark .autocomplete-1vrmpx { background-color: rgba(0,0,0,.7); border: 1px solid #a7fc52; }
 .theme-dark .selectorSelected-1_M1WV { background-color: rgba(167, 252, 82, .5); }
 
