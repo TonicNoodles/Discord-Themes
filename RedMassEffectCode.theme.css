@@ -48,8 +48,8 @@
 .privateChannels-1nO12o .channel-2fhmY8:hover .selectedLink-3dsNZ6 { background-color: rgba(255,31,31,.5); }
 
 /* DM Page */
-.channel-2QD9_O.selected-1HYmZZ, .channel-2QD9_O:hover {background-color: rbga(255,31,31,.3); }
-.channel-2QD9_O.selected-1HYmZZ a, .channel-2QD9_O:hover a { background-color: rgba(255,31,31,.5); }
+.channel-2QD9_O.selected-1HYmZZ {background-color: rbga(255,31,31,.3); }
+.channel-2QD9_O.selected-1HYmZZ a, .channel-2QD9_O:hover a { background-color: rgba(255,31,31,.2); }
 .theme-dark #friends .friends-table .friends-row:hover { background-color: rgba(255,31,31,.2); }
 
 /* Chat Message Box */
