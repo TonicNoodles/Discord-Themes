@@ -144,8 +144,9 @@
 .theme-dark .messageGroupWrapper-o-Zw7G:hover .actionButtons-1sUUug { background-color: rgb(20,20,20); box-shadow: none; }
 .theme-dark .jumpButton-3DTcS_ { background-color: rgb(0,0,0); color: rgb(255,31,31); }
 .theme-dark .jumpButton-3DTcS_:hover { color: rgb(255,31,31); }
-.popout-3sVMXz header { background-color: rgb(20,20,20); color: rgb(255,31,31); }
-.theme-dark .container-2x5lvQ section { background-color: rgb(20,20,20); }
+.popout-3sVMXz header { background-color: rgb(0,0,0); color: rgb(255,31,31); }
+.theme-dark .container-2x5lvQ header { background-color: rgb(0,0,0); color: rgb(255,31,31); }
+.theme-dark .container-2x5lvQ section { background-color: rgb(0,0,0); }
 .container-2x5lvQ { border: 1px solid #ff1f1f; }
 
 /* Emoji Picker */
