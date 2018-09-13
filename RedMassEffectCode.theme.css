@@ -47,6 +47,9 @@
 .channelIcon-MsmKOO { color: rgb(255,31,31); }
 .privateChannels-1nO12o .channel-2fhmY8:hover .selectedLink-3dsNZ6 { background-color: rgba(255,31,31,.5); }
 
+/* DM Page */
+.channel-2QD9_O.selected-1HYmZZ, .channel-2QD9_O:hover {background-color: rbga(255,31,31,.3); }
+
 /* Chat Message Box */
 .theme-dark .inner-zqa7da { border: 1px solid #ff1f1f; }
 .theme-dark .autocomplete-1vrmpx { background-color: rgba(0,0,0,.7); border: 1px solid #ff1f1f; }
