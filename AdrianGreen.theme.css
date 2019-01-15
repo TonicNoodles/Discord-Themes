@@ -5,6 +5,10 @@ TEXT CHANNELS
 
 */
 
+.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3 { background: transparent; }
+.theme-dark .messagesWrapper-3lZDfY {  background: transparent; }
+
+
 /* Default Text Channels */
 .nameDefaultText-24KCy5, .nameDefaultVoice-3WUH7s, .nameLockedText-3pqQcL, .nameLockedVoice-26MhB1 
 { 
@@ -1044,7 +1048,7 @@ Background stuff
 }
 
 .app {
-	background-image: url("https://i.ytimg.com/vi/8UwsvC7C2oc/maxresdefault.jpg");
+	background-image: url("https://i.ytimg.com/vi/8UwsvC7C2oc/maxresdefault.jpg") !important;
 	background-size: cover !important;
 
 	background-position: center !important;
@@ -1086,7 +1090,6 @@ Background stuff
 
 .theme-dark .divider-3gKybi>span
 { 
-	background:rgb(20,20,20);
 	color:rgb(167, 252, 82)!important;
 	font-size:12px;
 	padding: 2px; 
@@ -1157,18 +1160,18 @@ Background stuff
 	background-color: transparent;
 }
 
-.theme-dark .chat form 
+.theme-dark .chat-3bRxxu form 
 {
 	background-color: transparent;
     box-shadow: none;
 }
 
-.theme-dark .chat>.content 
+.theme-dark .chat-3bRxxu>.content 
 {
 	background-color: transparent;
 }
 
-.theme-dark .chat 
+.theme-dark .chat-3bRxxu
 {
 	background-color: transparent;
 }
