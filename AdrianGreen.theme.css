@@ -1,3 +1,5 @@
+
+
 /* TESTING */
 /* 
 
@@ -7,7 +9,11 @@ TEXT CHANNELS
 
 .theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3 { background: transparent; }
 .theme-dark .messagesWrapper-3lZDfY {  background: transparent; }
-
+.theme-dark .wrapper-1Rf91z { background: transparent; width: 50px; }
+.container-2td-dC { width: 36px; height: 36px; }
+.container-1ETFDs, .homeButton-2Cw51C { width: 36px; height: 36px; }
+.container-11WMXy, .circleIconButton-jET_ig { width: 36px; height: 36px; }
+.noIcon-1a_FrS.iconSizeLarge-161qtT { line-height: 36px; }
 
 /* Default Text Channels */
 .nameDefaultText-24KCy5, .nameDefaultVoice-3WUH7s, .nameLockedText-3pqQcL, .nameLockedVoice-26MhB1 
